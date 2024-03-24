@@ -1,0 +1,153 @@
+Order priority 46
+DS in VI interview = Order &placement
+A, B, C, D - Order atleast one priority rating must be selected in VI interview
+MOve the placement to interviewed & add cue note
+
+DS in VI interview != Order &placement
+Map Speciality - table
+DisplinID & SPeciality ID Similr Dis & SPe ID 
+A, B, C, D  - no review on rating
+MOve the placement to interviewed & add cue note - Placement check
+
+
+Order priotrity 45
+
+DS in VI interview = Order &placement
+A, B, C, D - Order atleast one priority rating must be selected in VI interview
+ add cue note
+
+DS in VI interview != Order &placement
+Map Speciality - table
+DisplinID & SPeciality ID Similr Dis & SPe ID 
+A, B, C, D  - no review on rating
+ add cue note
+
+New story Updates 
+
+1. Trigger - Placement, Order profile check, VI interiew check
+
+2.DS in VI interview != Order &placement
+ Map Speciality - table
+
+3. CUe note updates - 
+
+Placement profile check - 
+Order pri - 45 and 46 not selected
+DS in VI interview = Order &placement
+A, B, C, D - Order atleast one priority rating must be selected in VI interview
+ add cue note when Placement moves from WFC to RFO
+
+Virtual Interview: Complete
+Order VI Skill Set: [Placement skillset]
+Order VI Rating: [Order priority 30-30 separated by commas]
+Candidate VI Skill Set: [Skillset for the passing candidate VI]
+Candidate VI Rating: [Mapping for the passing candidate VI]
+Order Allowable Mismatch: [Yes or No – Yes if the passing VI is an allowable mismatch and No if the passing VI is not]
+
+Order priority 46
+DS in VI interview = Order &placement
+A, B, C, D - Order atleast one priority rating must be selected in VI interview
+MOve the placement to interviewed & no cue note
+
+DS in VI interview != Order &placement
+Map Speciality - table
+DisplinID & SPeciality ID Similr Dis & SPe ID 
+A, B, C, D  - no review on rating
+ add cue note
+
+VI interview check 
+adding VI interview
+Order pri - 45 and 46 not selected
+DS in VI interview = Order &placement
+A, B, C, D - Order atleast one priority rating must be selected in VI interview
+ add cue note when Placement already in RFO
+
+
+Order priority 46
+DS in VI interview = Order &placement
+A, B, C, D - Order atleast one priority rating must be selected in VI interview
+MOve the placement to interviewed & add cue note
+
+Virtual Interview on file and moved from Sent
+Virtual Interview: Complete
+Order VI Skill Set: [Placement skillset]
+Order VI Rating: [Order priority 30-30 separated by commas]
+Candidate VI Skill Set: [Skillset for the passing candidate VI]
+Candidate VI Rating: [Mapping for the passing candidate VI]
+Order Allowable Mismatch: [Yes or No – Yes if the passing VI is an allowable mismatch and No if the passing VI is not]
+
+DS in VI interview != Order &placement
+Map Speciality - table
+DisplinID & SPeciality ID Similr Dis & SPe ID 
+A, B, C, D  - no review on rating
+ add cue note
+
+
+Order priority - chek
+
+Order pri - 45 and 46 not selected
+DS in VI interview = Order &placement
+A, B, C, D - Order atleast one priority rating must be selected in VI interview
+ add cue note when Placement moves from WFC to RFO
+
+Virtual Interview: Complete
+Order VI Skill Set: [Placement skillset]
+Order VI Rating: [Order priority 30-30 separated by commas]
+Candidate VI Skill Set: [Skillset for the passing candidate VI]
+Candidate VI Rating: [Mapping for the passing candidate VI]
+Order Allowable Mismatch: [Yes or No – Yes if the passing VI is an allowable mismatch and No if the passing VI is not]
+
+Order priority 46
+DS in VI interview = Order &placement
+A, B, C, D - Order atleast one priority rating must be selected in VI interview
+MOve the placement to interviewed & no cue note
+
+DS in VI interview != Order &placement
+Map Speciality - table
+DisplinID & SPeciality ID Similr Dis & SPe ID 
+A, B, C, D  - no review on rating
+ add cue note
+
+VI interview check 
+adding VI interview
+Order pri - 45 and 46 not selected
+DS in VI interview = Order &placement
+A, B, C, D - Order atleast one priority rating must be selected in VI interview
+ add cue note when Placement already in RFO
+
+
+Order priority 46
+DS in VI interview = Order &placement
+A, B, C, D - Order atleast one priority rating must be selected in VI interview
+MOve the placement to interviewed & add cue note
+
+Virtual Interview on file and moved from Sent
+Virtual Interview: Complete
+Order VI Skill Set: [Placement skillset]
+Order VI Rating: [Order priority 30-30 separated by commas]
+Candidate VI Skill Set: [Skillset for the passing candidate VI]
+Candidate VI Rating: [Mapping for the passing candidate VI]
+Order Allowable Mismatch: [Yes or No – Yes if the passing VI is an allowable mismatch and No if the passing VI is not]
+
+DS in VI interview != Order &placement
+Map Speciality - table
+DisplinID & SPeciality ID Similr Dis & SPe ID 
+A, B, C, D  - no review on rating
+ add cue note
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

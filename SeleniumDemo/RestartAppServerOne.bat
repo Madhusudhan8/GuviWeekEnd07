@@ -1,0 +1,2 @@
+NET USE \\192.168.2.11\IPC$ Admin@1234 /USER:ADMINISTRATOR
+shutdown /s  /m \\192.168.2.11
