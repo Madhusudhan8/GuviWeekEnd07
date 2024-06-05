@@ -11,16 +11,19 @@ public class SeleniumDemoFirst {
 		try 
 		{
 			Thread.sleep(3000);
-			driver.get("https://www.google.co.in");
+			driver.get("https://www.demoblaze.com");
+			driver.manage().window().maximize();
 			String actualTitle=driver.getTitle();
 			System.out.println(actualTitle);
-			if(actualTitle.equals("Google"))
+			if(actualTitle.equals("STORE"))
 			{
-				System.out.println("Title is matching");
+				System.out.println("Page landed on correct Website");
+				Thread.sleep(4000);
 			}
 			else
 			{
-				System.out.println("Title is not matching");
+				System.out.println("Page not landed on correct Website");
+				Thread.sleep(4000);
 			}
 			driver.close();
 			
