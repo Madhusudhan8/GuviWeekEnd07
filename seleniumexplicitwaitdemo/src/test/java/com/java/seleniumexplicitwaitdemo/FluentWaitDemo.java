@@ -2,7 +2,7 @@ package com.java.seleniumexplicitwaitdemo;
 
 import java.time.Duration;
 import java.util.NoSuchElementException;
-
+import java.util.function.Function;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -20,30 +20,30 @@ public class FluentWaitDemo {
 		
 		
 		Wait<WebDriver> wait = new FluentWait<WebDriver>(driver)
-			       .withTimeout(Duration.ofSeconds(30))
+			       .withTimeout(Duration.ofSeconds(10))
 			       .pollingEvery(Duration.ofSeconds(5L))
 			       .ignoring(NoSuchElementException.class);
 
-			   WebElement elementOne = wait.until(new Function<WebDriver, WebElement>() {
+			   WebElement elementOne = wait.until(new Function<WebElement>() {
 			     public WebElement apply(WebDriver driver) {
 			       return driver.findElement(By.xpath("//input[@placeholder='Username']"));
 			     }
 			     });
 			   elementOne.sendKeys("Admin");
-			   WebElement elementTwo = wait.until(new Function<WebDriver, WebElement>() {
+			   WebElement elementTwo = wait.until(new Function<WebElement>() {
 				     public WebElement apply(WebDriver driver) {
 				       return driver.findElement(By.xpath("//input[@placeholder='Password']"));
 				     }
 				     });
 			   elementTwo.sendKeys("admin123");
 			   
-			   WebElement elementTwo = wait.until(new Function<WebDriver, WebElement>() {
+			   WebElement elementThree = wait.until(new Function<WebElement>() {
 				     public WebElement apply(WebDriver driver) {
 				       return driver.findElement(By.xpath("//button[normalize-space()='Login']"));
 				     }
 				     });
 			   
-			   
+			   elementThree.click();
 			   
 			   
 			   
